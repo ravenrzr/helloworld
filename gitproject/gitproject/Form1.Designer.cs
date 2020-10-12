@@ -33,6 +33,7 @@
             // 
             // button1
             // 
+            this.button1.Image = global::gitproject.Properties.Resources._20201001_142317;
             this.button1.Location = new System.Drawing.Point(150, 65);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(478, 225);
